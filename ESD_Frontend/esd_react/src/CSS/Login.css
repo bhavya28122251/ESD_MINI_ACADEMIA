@@ -1,0 +1,20 @@
+.login-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+  }
+  
+  .login-heading {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .login-title {
+    color: #555;
+    margin-bottom: 20px;
+  }
+  
